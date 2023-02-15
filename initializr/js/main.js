@@ -10,3 +10,5 @@ let j=8
 let k =154
 git j = 20
 >>>>>>> origin
+ letv =j
+kldj =4
